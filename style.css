@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    list-style: none;
+}
+.forAlign{
+    
+    margin-right: 50px;
+    border-bottom: 1px solid gray;
+    width: 50%;
+    margin: 0 auto;
+    
+
+    
+}
+
+.alignBtn{
+    margin-left: 60px;
+}
+
